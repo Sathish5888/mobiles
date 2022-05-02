@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mobiles/static/css/main.04032e2e.css",
+    "main.js": "/mobiles/static/js/main.d04f2b46.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mobiles/static/js/787.28cb0dcd.chunk.js",
+    "static/media/backgrdmobils.jpg": "/mobiles/static/media/backgrdmobils.91d657f67f52dba44ca6.jpg",
+    "static/media/android4.jpg": "/mobiles/static/media/android4.e5154d8e522e3834d522.jpg",
+    "static/media/android2.jpg": "/mobiles/static/media/android2.d810bd0560c178e71925.jpg",
+    "static/media/iphonebck.jpg": "/mobiles/static/media/iphonebck.54374268422610fbbed1.jpg",
+    "static/media/android1.jpg": "/mobiles/static/media/android1.b0242dc11a27ae940d1a.jpg",
+    "static/media/android3.jpg": "/mobiles/static/media/android3.14d037e6a11eb8839f78.jpg",
+    "static/media/transformerimg.jpg": "/mobiles/static/media/transformerimg.8104f17c35e2a8d98bfa.jpg",
+    "index.html": "/mobiles/index.html",
+    "main.04032e2e.css.map": "/mobiles/static/css/main.04032e2e.css.map",
+    "main.d04f2b46.js.map": "/mobiles/static/js/main.d04f2b46.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mobiles/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04032e2e.css",
+    "static/js/main.d04f2b46.js"
+  ]
+}
